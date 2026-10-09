@@ -1,0 +1,6 @@
+customtkinter
+pillow
+opencv-python
+sounddevice
+imageio-ffmpeg
+numpy
